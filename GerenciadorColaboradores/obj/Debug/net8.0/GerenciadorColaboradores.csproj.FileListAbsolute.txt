@@ -141,3 +141,4 @@ D:\Devspace\dotNET\Teste para Analista de Sistemas Jr\my-app\GerenciadorColabora
 D:\Devspace\dotNET\Teste para Analista de Sistemas Jr\my-app\GerenciadorColaboradores\GerenciadorColaboradores\obj\Debug\net8.0\GerenciadorColaboradores.pdb
 D:\Devspace\dotNET\Teste para Analista de Sistemas Jr\my-app\GerenciadorColaboradores\GerenciadorColaboradores\obj\Debug\net8.0\GerenciadorColaboradores.genruntimeconfig.cache
 D:\Devspace\dotNET\Teste para Analista de Sistemas Jr\my-app\GerenciadorColaboradores\GerenciadorColaboradores\obj\Debug\net8.0\ref\GerenciadorColaboradores.dll
+D:\Devspace\dotNET\Teste para Analista de Sistemas Jr\my-app\GerenciadorColaboradores\GerenciadorColaboradores\obj\Debug\net8.0\GerenciadorColaboradores.sourcelink.json

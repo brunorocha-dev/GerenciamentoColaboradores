@@ -40,7 +40,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 <h3>📋 Pré-requisitos</h3>
 
 - [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos) ou [Visual Studio](https://visualstudio.microsoft.com/pt-br/downloads/?WT.mc_id=javascript-0000-gllemos)
-- [.NET SDK](https://dotnet.microsoft.com/pt-br/download/visual-studio-sdks)
+- [.NET 8](https://dotnet.microsoft.com/pt-br/download/visual-studio-sdks)
 - [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
 - [Git](https://git-scm.com/downloads)
 
@@ -49,7 +49,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 #### Clonando o projeto
 
 ```bash
-git clone your-project-url-in-github
+git clone https://github.com/brunorocha-dev/GerenciamentoColaboradores.git
 ```
 ### Configurando a Base de Dados:
 
